@@ -5,9 +5,12 @@ We will show the properties of earth's atmosphere through plots and beable to ca
 
 ![alt text](https://github.com/DrewHopkins/atmosphere/blob/main/earth's_Atmospheric_Properties.jpg)
 
-## Airspeed
+## Airspeed and Propulsion
 Given the calibrated airspeed and the altitude of a airplane, we will be able to decipher the true airspeed and mach number at the altitude
 
-## Propulsion
+and
+
 Given the altitude and Mach number of an airplane we will be able to determine the thrust and thrust-specific fuel consumption 
 of a low bypass turbofan engine
+
+![alt text](https://github.com/DrewHopkins/atmosphere/blob/main/TrueAirspeed%20and%20Thrust.png)
