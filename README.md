@@ -13,4 +13,4 @@ and
 Given the altitude and Mach number of an airplane we will be able to determine the thrust and thrust-specific fuel consumption 
 of a low bypass turbofan engine
 
-![alt text](https://github.com/DrewHopkins/atmosphere/blob/main/TrueAirspeed%20and%20Thrust.png)
+![alt text](https://github.com/DrewHopkins/atmosphere/blob/main/trueAirspeed_and_thrust.jpg)
